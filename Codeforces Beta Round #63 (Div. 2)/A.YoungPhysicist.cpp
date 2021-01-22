@@ -12,6 +12,11 @@ Output
 Print the word "YES" if the body is in equilibrium, or the word "NO" if it is not. 
 */
 
+/*
+HINT:
+Three vectors are at equilibrium when the results of those three vectors is a Null vector, i.e. it has no magnitude and direction. 
+*/
+
 // CODE
 
 #include <iostream>
