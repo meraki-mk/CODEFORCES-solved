@@ -9,7 +9,7 @@ Input
 The first line contains a positive integer n (1 ≤ n ≤ 100), then follow n lines containing three integers each: the xi coordinate, the yi coordinate and the zi coordinate of the force vector, applied to the body ( - 100 ≤ xi, yi, zi ≤ 100).
 
 Output
-Print the word "YES" if the body is in equilibrium, or the word "NO" if it is not.
+Print the word "YES" if the body is in equilibrium, or the word "NO" if it is not. 
 */
 
 // CODE
