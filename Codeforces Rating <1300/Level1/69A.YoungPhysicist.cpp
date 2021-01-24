@@ -1,3 +1,4 @@
+// Codeforces Beta Round #63 (Div. 2)
 // problem link: https://codeforces.com/problemset/problem/69/A
 
 // CODE
@@ -25,3 +26,4 @@ int main()
         cout << "NO";
     return 0;
 }
+
