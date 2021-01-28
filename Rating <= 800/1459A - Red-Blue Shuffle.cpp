@@ -16,11 +16,6 @@ int main()
         cin >> n;
         string r, b;
         cin >> r >> b;
-        if(r == b)
-        {
-            cout << "EQUAL\n";
-            continue;
-        }
         int cr=0, cb=0;
         for(int i=0; i<n; i++)
         {
