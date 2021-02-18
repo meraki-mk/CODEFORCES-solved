@@ -22,11 +22,11 @@ int main()
 	    {
 	        float a = max(v[i], v[i+1]);
 	        float b = min(v[i], v[i+1]);
-            while(a/b > 2.0)
-            {
-                a /= 2;
-                count++;
-            }
+	    	while(a/b > 2.0)
+	    	{
+			a /= 2;
+			count++;
+	    	}
 	    }
 	    cout << count << "\n";
 	}
